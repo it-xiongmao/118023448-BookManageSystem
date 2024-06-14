@@ -31,31 +31,31 @@
 ## 4.部分运行截图
 
 登录（登录分为读者和管理)
-![输入图片说明](/01.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/01.png)
 
 管理员登录首页
-![输入图片说明](18023448/02.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/02.png)
 
 借阅管理
-![输入图片说明](18023448/03.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/03.png)
 
 图书管理
-![输入图片说明](18023448/04.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/04.png)
 
 读者管理
-![输入图片说明](18023448/05.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/05.png)
 
 类型管理
-![输入图片说明](18023448/06.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/06.png)
 
 公告管理
-![输入图片说明](18023448/07.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/07.png)
 
 管理员管理
-![输入图片说明](18023448/08.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/08.png)
 
 统计分析
-![输入图片说明](18023448/09.png)
+![输入图片说明](https://gitee.com/it-xiongmao/BookLibrarySystem/raw/master/18023448/09.png)
 
 ## 5.源码下载
 
